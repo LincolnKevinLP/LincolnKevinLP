@@ -4,9 +4,9 @@
 - 👯 Procuro colaborar com tudo que venho o atualizar, colocar tudo na prática para projeto; 
 - 😄 Ele/Dele 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolnKevinLP&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true%22/%3E
-   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnKevinLP&layout=compact&langs_count=7&theme=apprentice%22/%3E
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolnKevinLP&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true/>
+                         <br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnKevinLP&layout=compact&langs_count=7&theme=apprentice/>
 </div> 
 <div style="display: inline_block"><br> 
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
